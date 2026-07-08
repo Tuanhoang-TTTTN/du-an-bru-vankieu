@@ -1,0 +1,12 @@
+[
+  {"word_vi": "Chào bạn", "word_bru": "Ngai chào", "word_vi_slug": "chao-ban", "category": "giao-tiep"},
+  {"word_vi": "Cảm ơn", "word_bru": "Cảm ơn", "word_vi_slug": "cam-on", "category": "giao-tiep"},
+  {"word_vi": "Bạn tên là gì?", "word_bru": "A cu têng chơng năi?", "word_vi_slug": "ban-ten-la-gi", "category": "giao-tiep"},
+  {"word_vi": "Tôi là người Bru", "word_bru": "A cu ta ngai Bru", "word_vi_slug": "toi-la-nguoi-bru", "category": "giao-tiep"},
+  {"word_vi": "Đi đâu đấy?", "word_bru": "Lao ha nơ?", "word_vi_slug": "di-dau-day", "category": "giao-tiep"},
+  {"word_vi": "Ăn cơm chưa?", "word_bru": "Chơ pa pa cha?", "word_vi_slug": "an-com-chua", "category": "doi-song"},
+  {"word_vi": "Con chó", "word_bru": "Con cho", "word_vi_slug": "con-cho", "category": "dong-vat"},
+  {"word_vi": "Ngôi nhà", "word_bru": "Tăm", "word_vi_slug": "ngoi-nha", "category": "doi-song"},
+  {"word_vi": "Nước", "word_bru": "Da", "word_vi_slug": "nuoc", "category": "doi-song"},
+  {"word_vi": "Mặt trời", "word_bru": "A te", "word_vi_slug": "mat-troi", "category": "tu-nhien"}
+]
