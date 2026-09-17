@@ -1,0 +1,8 @@
+# Bước 1: Gom tất cả các file đã chỉnh sửa vào hàng chờ
+git add .
+
+# Bước 2: Đóng gói và ghi chú nội dung thay đổi
+git commit -m "Mô tả ngắn gọn bạn đã làm gì"
+
+# Bước 3: Đẩy gói code đó lên GitHub
+git push origin main
